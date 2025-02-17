@@ -1,0 +1,1 @@
+{"name":"Local: dna","url":"c:\\Users\\agast\\OneDrive\\Desktop\\ai  lab test\\dna.cpp","tests":[{"id":1731738946792,"input":"1\nACGTACGTGACG\nACG","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\agast\\OneDrive\\Desktop\\ai  lab test\\dna.cpp","group":"local","local":true}

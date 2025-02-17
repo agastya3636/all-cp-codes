@@ -1,0 +1,1 @@
+{"name":"Local: stable","url":"c:\\Users\\agast\\OneDrive\\Desktop\\ai  lab test\\stable.cpp","tests":[{"id":1736520285926,"input":"4 6\n\nE B E E B E\n\nS E E E E E\n\nE B E B B E\n\nE E E E E B\n\n6","output":"1 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\agast\\OneDrive\\Desktop\\ai  lab test\\stable.cpp","group":"local","local":true}
